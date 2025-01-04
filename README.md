@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Nitin! 👋
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
 
-- 🚀 **Tech Enthusiast**: Passionate about building awesome projects in **React Native**, **JavaScript**, and **front-end development**.
+- 🚀 **Tech Enthusiast**: Passionate about building awesome projects in **Python**, **React**, and **Data Science**.
 - 🎮 **Gamer at Heart**: When I'm not coding, you'll find me immersed in PC games or exploring story-driven adventures.
 - 📖 **Lifelong Learner**: Currently diving into **Python** and **Java**, and constantly expanding my skill set.
 - 💡 **Hobbyist Creator**: I enjoy crafting intuitive and stylish apps with a focus on clean design and functionality.
@@ -20,8 +20,7 @@ Welcome to my GitHub profile! Here's a little about me:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  ![React](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
 - **Frameworks & Tools**: React, Node.js, VS Code, Git, GitHub
@@ -31,11 +30,9 @@ Welcome to my GitHub profile! Here's a little about me:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-- **Design**: Figma, Canva, Adobe XD
+- **Design**: Figma, Canva, 
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
-
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ---
 
 ## 🚀 Projects
