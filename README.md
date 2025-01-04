@@ -17,8 +17,24 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🛠️ My Tech Stack
 
 - **Languages**: HTML, CSS, JavaScript, React Native, C, C++
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
 - **Frameworks & Tools**: React, Node.js, VS Code, Git, GitHub
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
 - **Design**: Figma, Canva, Adobe XD
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
 
 ---
 
@@ -52,9 +68,9 @@ Check out my repositories for more projects! 🌟
 
 ## 📫 How to Reach Me
 
-- 🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 📧 **Email**: youremail@example.com
+- 🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)
+- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourlinkedin) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+- 📧 **Email**: youremail@example.com ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)
 
 Feel free to connect with me for collaborations, feedback, or just to say hi! 😊
 
