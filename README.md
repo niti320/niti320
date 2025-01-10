@@ -30,18 +30,14 @@ Welcome to my GitHub profile! Here's a little about me:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-- **Design**: Figma, Canva, 
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
----
 
 ## 🚀 Projects
 
 Here are some highlights of my work:
 
-- 🎵 **Music Player App**: A sleek music player built with React Native, featuring a dynamic tracklist and customizable themes.
+- 🎵 **Movie Recommendation Engine**: Recommends movies based on user choice using Machine Learning.
 - 🎴 **Memory Game**: A concentration game with fun card themes and animations.
-- ✅ **Task Manager**: A productivity app with priority-based task organization and swipe-to-remove functionality.
+- ✅ **Task Manager android app**: A productivity android app with priority-based task organization and swipe-to-remove functionality.
 
 Check out my repositories for more projects! 🌟
 
@@ -65,9 +61,8 @@ Check out my repositories for more projects! 🌟
 
 ## 📫 How to Reach Me
 
-- 🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourlinkedin) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
-- 📧 **Email**: youremail@example.com ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)
+- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/nitinsharma003) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+- 📧 **Email**: nitebreet2002@gmail.com ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)
 
 Feel free to connect with me for collaborations, feedback, or just to say hi! 😊
 
