@@ -61,7 +61,7 @@ Check out my repositories for more projects! 🌟
 
 ## 📫 How to Reach Me
 
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/nitinsharma003) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
+- 💼 **LinkedIn**: [Linkedin Profile](https://linkedin.com/in/nitinsharma003) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)
 - 📧 **Email**: nitebreet2002@gmail.com ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)
 
 Feel free to connect with me for collaborations, feedback, or just to say hi! 😊
